@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31e9496b-92a5-40b4-8e76-a01eaa8fd2b7": {
+      "ProjectGuid": "31e9496b-92a5-40b4-8e76-a01eaa8fd2b7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "f78d3f1f-622e-4468-b1a7-0b158a384ac6": {
+      "ProjectGuid": "f78d3f1f-622e-4468-b1a7-0b158a384ac6",
+      "DisplayName": "Dominio",
+      "ColorIndex": 1
+    },
+    "7510927a-db0c-4bf8-8f7a-1ec11dcd7b82": {
+      "ProjectGuid": "7510927a-db0c-4bf8-8f7a-1ec11dcd7b82",
+      "DisplayName": "Model.Domain",
+      "ColorIndex": 2
+    },
+    "e10b8f1d-db88-482d-85db-7dd97a07b4ae": {
+      "ProjectGuid": "e10b8f1d-db88-482d-85db-7dd97a07b4ae",
+      "DisplayName": "Model.Infra.Data",
+      "ColorIndex": 3
+    },
+    "c44d3225-9a59-48a0-b1f3-4f0ef036a443": {
+      "ProjectGuid": "c44d3225-9a59-48a0-b1f3-4f0ef036a443",
+      "DisplayName": "Model.Service",
+      "ColorIndex": 4
+    },
+    "c8d6ccdd-bf54-43b8-9095-29708f819084": {
+      "ProjectGuid": "c8d6ccdd-bf54-43b8-9095-29708f819084",
+      "DisplayName": "Model.Infra.CrossCutting",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
